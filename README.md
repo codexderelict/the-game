@@ -1,2 +1,2 @@
-In a discussion on the Python Discord server, I was told that one of the hurdles in game development for people who finish a programming course is breaking out of procedurality. This is a very short game I made based on an old Internet meme. 
+In a discussion on the Python Discord server, I was told that one of the hurdles in game development for people who finish a programming course is breaking out of procedurality and learning how to work with the game loop. This is a very short game I made based on an old Internet meme. 
 If you input "the game" or anything with the phrase "the game" in it, you lose. It loops every time you input a string until you lose the game.
